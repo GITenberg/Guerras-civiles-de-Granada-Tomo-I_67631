@@ -1,0 +1,38 @@
+_repo: Guerras-civiles-de-Granada-Tomo-I_67631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérez de Hita, Ginés
+    aliases:
+    - Perez, Genez
+    - Pérez, Genéz
+    - De Hita, Ginés Pérez
+    - Hita, Ginés Pérez de
+    - Perez de Hita, Gines
+    gutenberg_agent_id: '54367'
+    url: http://www.gutenberg.org/2009/agents/54367
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Gin%C3%A9s_P%C3%A9rez_de_Hita
+    - https://en.wikipedia.org/wiki/Gin%C3%A9s_P%C3%A9rez_de_Hita
+description: ''
+gutenberg_issued: '2022-03-15'
+identifiers:
+  gutenberg: '67631'
+language: es
+pgterms:marc904: https://archive.org/details/guerrascivilesde01prez
+pgterms:marc905: 20180225041639prezdehita
+pgterms:marc906: '1833'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: Spain :D. Leon Amarita,1833.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Granada (Spain : Reino) -- History -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'Guerras civiles de Granada: Tomo I'
+url: http://www.gutenberg.org/ebooks/67631
