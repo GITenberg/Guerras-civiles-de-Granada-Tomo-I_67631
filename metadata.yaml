@@ -1,5 +1,8 @@
 _repo: Guerras-civiles-de-Granada-Tomo-I_67631
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67631-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez de Hita, Ginés
@@ -15,6 +18,8 @@ creator:
     - https://es.wikipedia.org/wiki/Gin%C3%A9s_P%C3%A9rez_de_Hita
     - https://en.wikipedia.org/wiki/Gin%C3%A9s_P%C3%A9rez_de_Hita
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67631#Guerras-civiles-de-Granada-Tomo-I
 gutenberg_issued: '2022-03-15'
 identifiers:
   gutenberg: '67631'
